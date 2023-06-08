@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeJune8
+  gitServerName: FlowTeamMunatri
+  gitUrl: https://github.com/Munatri/EdgeJune8
+  gitUsername: Munatri
+  gitToken: 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
+  gitBranch: master
